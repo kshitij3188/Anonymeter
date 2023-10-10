@@ -30,8 +30,7 @@ If you experience issues with the installation, we recommend to install
 
 ## Getting started
 
-Check out the example notebook in the `notebooks` folder to start playing around
-with `anonymeter`. To run this notebook you would need `jupyter` and some plotting libraries.
+To initiate the execution of commands for two distinct datasets, namely [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing) and [Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance), please refer to the example notebook located in the `notebooks` directory. To run this notebook you would need `jupyter` and some plotting libraries.
 This should be installed as part of the `notebooks` dependencies.
 
 ## Cite this work
