@@ -32,19 +32,3 @@ If you experience issues with the installation, we recommend to install
 
 To initiate the execution of commands for two distinct datasets, namely [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing) and [Student Performance](https://archive.ics.uci.edu/dataset/320/student+performance), please refer to the example notebook located in the `notebooks` directory. To run this notebook you would need `jupyter` and some plotting libraries.
 This should be installed as part of the `notebooks` dependencies.
-
-## Cite this work
-
-"A Unified Framework for Quantifying Privacy Risk in Synthetic Data", M. Giomi *et al*, PoPETS 2023.
-This `bibtex` entry can be used to refer to the paper:
-
-```text
-@misc{anonymeter,
-  doi = {https://doi.org/10.56553/popets-2023-0055},
-  url = {https://petsymposium.org/popets/2023/popets-2023-0055.php},
-  journal = {Proceedings of Privacy Enhancing Technologies Symposium},
-  year = {2023},
-  author = {Giomi, Matteo and Boenisch, Franziska and Wehmeyer, Christoph and Tasnádi, Borbála},
-  title = {A Unified Framework for Quantifying Privacy Risk in Synthetic Data},
-}
-```
